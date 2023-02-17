@@ -9,6 +9,7 @@ import './assets/stylesheets/style.css'
 
 const Hello = () => (
   <div>Hello World!</div>
+	<div> HEI TUUKKA MÄ TELOTAN SUT</div>
 );
 
 class App extends Component {
